@@ -58,3 +58,7 @@
 	path = third_party/eagle-pcc
 	url = git@github.com:tony-liao/gold-IRL
 	ignore = dirty
+[submodule "third_party/eagle-synthbbr"]
+	path = third_party/eagle-synthbbr
+	url = git@github.com:tony-liao/gold-IRL
+	ignore = dirty

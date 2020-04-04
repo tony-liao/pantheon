@@ -71,3 +71,7 @@ schemes:
     name: Eagle PCC
     color: gold
     marker: '+'
+  eagle-synthbbr:
+    name: Eagle Synthesized BBR
+    color: black
+    marker: '+'
