@@ -57,3 +57,4 @@
 [submodule "third_party/eagle-pcc"]
 	path = third_party/eagle-pcc
 	url = git@github.com:tony-liao/gold-IRL
+	ignore = dirty
